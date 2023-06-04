@@ -1,0 +1,11 @@
+.back, a{
+    margin-top:7px;
+    background-color: plum;
+    color: wheat;
+    text-decoration: none;
+    width: 90px;
+    height: 60px;
+    border: transparent;
+    border-radius: 7px;
+}
+
